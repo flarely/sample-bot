@@ -1,0 +1,15 @@
+{
+  "name": "sample-bot",
+  "version": "1.0.0",
+  "description": "a sample bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "!ping"
+  },
+  "author": "Lake The Eevee, geneva",
+  "license": "MIT"
+}
